@@ -1,6 +1,6 @@
 # Hayvanat Bahcesi Hayvan Sistemi
 
-![UML Diyagram](./zoo_animal_class.svg)
+![UML Diyagram](./Zoo_System_UML.svg)
 
 Polimorfizm tabanli OOP tasarimi. Her hayvan grubu `getDosage()` ve `getFeedSchedule()` metodlarini kendi algoritmasiyla implement eder.
 
